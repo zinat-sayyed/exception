@@ -1,0 +1,5 @@
+how would u consider the test case is good testcase?
+1.simple representation
+2.covver all functionality
+3.easy to understand
+4.specific by nature
